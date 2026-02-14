@@ -1,0 +1,11 @@
+#EXTM3U
+#RDJDATA:64652:0.309:0:74.591:75.4:0:0.809:-100:-100:-100:-100:
+#EXTINF:0,NPR News - NPR Hourly Update
+http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3
+#RDJDATA:7139:0:0:0:0:0:0:-100:-100:-100:-100:
+#EXTINF:0,WCLO Newscast - WCLO Newscast
+https://podcast.wclo.com/webnews.mp3
+#RDJDATA:42035:0:0:0:0:0:0:-100:-100:-100:-100:
+#EXTINF:0,Civic Media - WMDX Weather Forecast
+https://storage.googleapis.com/civic-media-fuse-archive/archive/weather/WMDX.mp3
+#RDJDATA:42038:0:0:0:0:0:0:-100:-100:-100:-100:
